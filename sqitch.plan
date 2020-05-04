@@ -6,3 +6,4 @@ appschema 2020-05-02T22:34:43Z Cristhian Murcia <cristhianmurcia182@gmail.com> #
 users [appschema] 2020-05-04T13:01:13Z Cristhian Murcia <cristhianmurcia182@gmail.com> # Creates table to track our users.
 insert_user [users appschema] 2020-05-04T13:13:46Z Cristhian Murcia <cristhianmurcia182@gmail.com> # Creates a function to insert a user.
 change_pass [users appschema] 2020-05-04T13:14:13Z Cristhian Murcia <cristhianmurcia182@gmail.com> # Creates a function to change a user password.
+@v1.0.0-dev1 2020-05-04T14:27:32Z Cristhian Murcia <cristhianmurcia182@gmail.com> # Tag v1.0.0-dev1.
